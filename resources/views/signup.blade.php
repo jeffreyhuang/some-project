@@ -78,7 +78,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome to Sign up
+                    <p>Welcome to Sign up</p>
                 </div>
 
                 <div class="links">
