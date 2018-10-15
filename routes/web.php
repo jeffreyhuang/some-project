@@ -16,10 +16,15 @@ Route::get('/', function () {
 });
 
 Route::get('/contact', function () {
+<<<<<<< HEAD
+    if (true) {
+        return view('contact');
+=======
     if (false) {
         return;
     } else {
         //
+>>>>>>> master
     }
 
     return view('contact');
