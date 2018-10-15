@@ -16,6 +16,10 @@ Route::get('/', function () {
 });
 
 Route::get('/contact', function () {
+    if (true) {
+        return view('contact');
+    }
+
     return view('contact');
 });
 
